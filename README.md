@@ -1,15 +1,18 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Christian Díaz" />
-</h1>
+<h1 align="center">Hi 👋, I'm Christian Díaz</h1>
+<h3 align="center">A passionate web developer</h3>
 
-## Hey! 👋
-I'm Christian, a 28 years old web developer.
+## 🔧 Technologies & Tools
 
-## Skills
+**Programming Languages:**
+
 - 👨‍💻 TypeScript, JavaScript, PHP, Python
 - ⚙️ React, Gatsby, Vue, Angular
 - 👁️ SASS, CSS, Tailwind
 - 💽 MySQL, SQL, MongoDB
-+ a lot more :D
 
-## Contact
+## 🏆 GitHub Trophies
+soon
+
+## 🗂️ Highlight Projects
+
+## 💻 Contact
