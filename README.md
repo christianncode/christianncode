@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=fff" alt="Testing Library"/>
 </div>
 
+## 📜 GitHub Certifications
+<a href="https://www.credly.com/badges/7081a373-a686-456f-b504-3055dc085997/public_url">
+  <img src="/public/assets/images/GH-foundations.png" alt="GH Foundations Certificate" width="100"/>
+</a>
+
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=christianncode&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
